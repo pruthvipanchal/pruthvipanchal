@@ -1,0 +1,8 @@
+{
+  "name": "pruthvipanchal-profile-tools",
+  "private": true,
+  "type": "module",
+  "description": "Builds the SVG cards for Pruthvi Panchal's GitHub profile README",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "fontkit": "2.0.4" }
+}
